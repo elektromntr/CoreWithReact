@@ -1,0 +1,6 @@
+D:\repoCoreWithReact\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.deps.json
+D:\repoCoreWithReact\DataAccess\bin\Debug\netcoreapp2.2\DataAccess.dll
+D:\repoCoreWithReact\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csproj.CoreCompileInputs.cache
+D:\repoCoreWithReact\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfoInputs.cache
+D:\repoCoreWithReact\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.AssemblyInfo.cs
+D:\repoCoreWithReact\DataAccess\obj\Debug\netcoreapp2.2\DataAccess.csprojAssemblyReference.cache
